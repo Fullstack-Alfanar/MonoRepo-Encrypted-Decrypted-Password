@@ -1,0 +1,18 @@
+* {
+  background-color: aqua;
+}
+
+.container-form {
+  margin-left: 30%;
+}
+
+.form {
+  text-align: center;
+}
+
+.table-body {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+/*# sourceMappingURL=style.css.map */
