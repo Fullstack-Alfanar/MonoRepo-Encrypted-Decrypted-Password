@@ -3,12 +3,16 @@
 }
 
 .container-form {
-  margin-left: 30%;
-}
-.form {
-  text-align: center;
-}
-.table-body {
   display: grid;
-  place-items: center;
+  place-content: center;
+}
+.form-header {
+  color: purple;
+}
+.table-body td label {
+  color: black;
+  font-weight: bolder;
+}
+.table-body p {
+  color: red;
 }
